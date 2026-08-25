@@ -1,6 +1,6 @@
 # Course Project Presentation Templates
 
-This folder contains plain Beamer templates using Computer Modern for the project presentations in CS460/660 - Machine Learning (2026).
+This folder contains plain Beamer templates using the default sans-serif font for the project presentations in CS460/660 - Machine Learning (2026).
 
 ## Presentation schedule
 
